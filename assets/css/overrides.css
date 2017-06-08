@@ -35,3 +35,29 @@
   font: blue;
 
 }
+
+.logo-container img {
+  height: 40px;
+}
+
+.navbar-brand.nav-white.page-scroll.logo-container {
+  padding-top: 0;
+}
+
+.logo-container .black{
+  display: none;
+}
+
+.past-main .white {
+  display: none;
+}
+
+.past-main .black {
+  display: block;
+}
+
+@media only screen and (max-width: 767px) {
+  .logo-container img {
+    height: 30px;
+  }
+}
