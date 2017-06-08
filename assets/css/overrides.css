@@ -2,3 +2,17 @@
     background-color: #c231ca;
     border: none;
 }
+
+.client-section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-family: "Poppins";
+}
+
+.footer {
+  padding-top: 20px;
+}
+
+.bottom-padding {
+  padding-bottom: 20px;
+}
