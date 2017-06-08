@@ -20,3 +20,18 @@
 .social-icon {
   height: 30px;
 }
+
+.btn-action:active {
+  background: white;
+}
+.btn-action:focus {
+  background: white;
+}
+.btn-action:hover {
+  background: white;
+
+}
+.btn-action:hover p{
+  font: blue;
+
+}
